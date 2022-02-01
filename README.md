@@ -2,13 +2,13 @@
 
 Esto es un repositorio de muestra para el testeo de Planet Salud en Cypress.
 
-- Iniciar la aplicación
-- Scripts
-- Control de versiones (Git)
-- Entorno de desarrollo.
-- Buenas prácticas
+- [Iniciar la app](#iniciar-la-app)
+- [Scripts](#scripts)
+- [Control de versiones (Git)](#control-de-versiones)
+- [Entorno de desarrollo](#entorno-de-desarrollo)
+- [Buenas prácticas](#buenas-practicas)
 
-## Iniciar la aplicación
+## Iniciar la app
 
 Decargar/clonar proyecto.
 
