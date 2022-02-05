@@ -1,0 +1,16 @@
+{
+"usuarios": {
+  "usuarioCorrecto": {
+    "nombre": "Usuario",
+    "apellidos": "De Test",
+    "email": "usuario-correcto@test.com",
+    "clave": "password",
+    "telefono": "666666666",
+    "nif": "00000000A",
+    "direccion": "Calle Falsa 6",
+    "poblacion": "Narnia",
+    "cp": "28000",
+    "provincia": "Madrid"
+  }
+}
+}
