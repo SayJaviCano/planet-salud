@@ -1,5 +1,5 @@
 
-# Registro de Test
+# Registro
 
 Excel para el registro y numeración de los test
 
