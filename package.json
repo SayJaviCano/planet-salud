@@ -1,15 +1,24 @@
 {
   "name": "planet-salud",
+  "author": "QABySeniors",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "license": "ISC",
   "scripts": {
     "open": "./node_modules/.bin/cypress open",
-    "test:run": "./node_modules/.bin/cypress run"
+    "test:run": "./node_modules/.bin/cypress run",
+    "eslint": "./node_modules/.bin/eslint"
   },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "cypress": "^9.3.1"
+  },
+  "devDependencies": {
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-chai-friendly": "^0.7.2",
+    "eslint-plugin-cypress": "^2.12.1",
+    "eslint-plugin-unused-imports": "^2.0.0",
+    "prettier": "^2.5.1",
+    "prettier-eslint": "^13.0.0"
   }
 }
