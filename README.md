@@ -48,6 +48,10 @@ Ejecuta todos los test en el terminal sin que se vean en un navegador.
 ```
 npm run test:run
 ```
+Ejecuta solo el test especificado
+...
+npx cypress run --spec "cypress/integration/tests/seccion7.spec.js"
+...
 
 ## Control de Versiones
 
